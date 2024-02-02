@@ -152,7 +152,7 @@ class PyroSession:
     def client(
         self,
         api: Type[APIData],
-        proxy: None | dict = None,
+        proxy: dict = None,
         no_updates: bool = True
     ) -> Client:
         client = Client(
