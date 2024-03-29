@@ -30,4 +30,4 @@ print(session.to_pyrogram_string())
 > use to convert to the format you need.
 
 ## Donate
-**USDT (BEP20):** `0x34412717daaf427efa39c8508db4f62cce0d6d48`
+**USDT (BEP20):** ``
